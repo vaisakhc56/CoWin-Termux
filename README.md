@@ -19,6 +19,10 @@ Get notified on your phone when there is a vaccine slot available at your locati
          
          pkg install termux-api
 
+   - Install Git
+
+         pkg install git
+         
    - Clone Repo 
          
          git clone https://github.com/truroshan/cowin-termux
