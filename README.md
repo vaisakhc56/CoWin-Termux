@@ -45,6 +45,6 @@ Replace the arguments above with the required values like mentioned below
 
 Optional arguments accepted:
 
-  - Pass `--a=<YOUR-AGE>` with your age (default is 45).
+  - Pass `--a=<YOUR-AGE>` with your age (default is 18).
 
-  - Pass `--t=<INTERVAL-IN-MINUTES>` to change the frequency of calling Cowin API  (default is 3 mins).
+  - Pass `--t=<INTERVAL-IN-MINUTES>` to change the frequency of calling Cowin API  (default is 1 min).
